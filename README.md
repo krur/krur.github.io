@@ -1,2 +1,2 @@
-krur.github.io
+krur.com website
 ==============
